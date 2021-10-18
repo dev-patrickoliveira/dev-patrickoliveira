@@ -1,7 +1,10 @@
 ## Olá 👋 Eu sou Patrick Oliveira, apaixonado por tecnologia :)
 🎓 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UniCesumar.
+
 🔭 Pretendo me tornar Full Stack Developer.
+
 🌱 Estou aprendendo JS, TS, React, HTML, CSS, Phyton, C#.
+
 
 <div align="left">
   <a href="https://github.com/dev-patrickoliveira">
