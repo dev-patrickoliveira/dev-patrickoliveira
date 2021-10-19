@@ -10,14 +10,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-patrickoliveira&layout=compact&langs_count=7&theme=white"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dv-patrickoliveira&layout=compact&langs_count=7&theme=white"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=dev-patrickoliveira&show_icons=true&theme=white&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=dv-patrickoliveira&show_icons=true&theme=white&include_all_commits=true&count_private=true"
     />
   </a>
 </p>
@@ -48,6 +48,6 @@
 
  ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/dev-patrickoliveira/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/dv-patrickoliveira/count.svg" />
  </p>
 
