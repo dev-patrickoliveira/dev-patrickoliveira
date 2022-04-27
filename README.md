@@ -5,7 +5,7 @@
 
 - 🌱 Estou aprendendo JS, TS, React, HTML, CSS, Phyton, C#.
 
-- 🎮 Jogo CS, Valorant, COD, GTA V, BF.
+- 🎮 Jogo CS, Valorant, COD, GTA V, BF quando é possível haha.
 
 
 <p align="center">
