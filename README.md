@@ -1,4 +1,4 @@
-## Olá 👋 Eu sou Patrick Oliveira, apaixonado por tecnologia :)
+## Olá 👋 Me chamo Patrick Oliveira, bem vindo!
 - 🎓 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UniCesumar.
 
 - 🔭 Pretendo me tornar Full Stack Developer.
