@@ -1,11 +1,11 @@
-## Olá 👋 Me chamo Patrick Oliveira, bem vindo!
-- 🎓 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UniCesumar.
+## Hello 👋 My name is Patrick Oliveira, welcome!
+- 🎓 I am currently a Systems Analysis and Development student at UniCesumar.
 
-- 🔭 Pretendo me tornar Full Stack Developer.
+- 🔭 A software engineer in training.
 
-- 🌱 Estou aprendendo JS, TS, React, HTML, CSS, Phyton, C#.
+- 🌱 I'm learning JS, TS, React, HTML, CSS, Python, C#.
 
-- 🎮 Jogo CS, Valorant, COD, GTA V, BF quando é possível haha.
+- 🎮 Play CS, Valorant, COD, GTA V, BF when possible haha.
 
 
 <p align="center">
